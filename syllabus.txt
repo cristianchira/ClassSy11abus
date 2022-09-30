@@ -1,1 +1,3 @@
 This a text file!
+new line!
+Last line!
